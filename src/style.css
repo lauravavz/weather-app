@@ -113,3 +113,9 @@ form {
   color: #fff;
   margin: 5px auto 20px;
 }
+
+.footer-text {
+  text-align: center;
+  font-family: "Lexend", sans-serif;
+  font-size: 12px;
+}
